@@ -17,7 +17,7 @@
 **The true story behind the song. Then a moment from K'Town.**
 *Die wahre Geschichte hinter dem Lied. Dann ein Moment aus K'Town.*
 
-[Home](README.md) · [All episodes](episodes/README.md) · [Weekly](weekly/README.md) · [Songs](songs/README.md)
+[Home](README.md) · [All episodes](episodes/README.md) · [Features](features/README.md) · [Weekly](weekly/README.md) · [Songs](songs/README.md)
 
 </div>
 
@@ -42,6 +42,7 @@
 | [`episodes/`](episodes/README.md) | every episode of Emmy's Morning Show: the true story of the song, the K'Town moment, Emmy's question |
 | [`weekly/`](weekly/README.md) | the songs of each week in one table |
 | [`songs/`](songs/README.md) | every song so far, by artist |
+| [`features/`](features/README.md) | the long reads: one song, the whole story |
 
 ## 👥 Who · Wer
 
