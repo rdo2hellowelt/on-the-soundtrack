@@ -42,5 +42,4 @@ Aus dem Nachtflieger nach Houston wurde ein Nachtzug nach Georgia. Und in K'Town
 
 ## Listen · Anhören
 
-Search your music app for **Midnight Train to Georgia** by **Gladys Knight & the Pips**.
-*Wir zitieren keine Liedzeilen. Titel und Interpret reichen, das Lied erzählt den Rest.*
+**Midnight Train to Georgia** · Gladys Knight & the Pips

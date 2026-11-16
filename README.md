@@ -52,10 +52,9 @@
 
 ## ⚖️ Fine print · Kleingedrucktes
 
-Song stories are told from published sources; we name songs and artists, we don't quote lyrics and we don't use cover art or images of real artists.
-Die Geschichten zu den Liedern stammen aus veröffentlichten Quellen; wir nennen Titel und Interpreten, zitieren keine Liedzeilen und zeigen keine Cover oder Bilder echter Künstler.
+We don't post. We won't declare.
 
-Texts: [CC BY 4.0](LICENSE.md). Songs and artist names belong to their owners.
+Texts: [CC BY 4.0](LICENSE.md).
 
 ## 🍎🍐 Also from K'Town · Auch aus K'Town
 
