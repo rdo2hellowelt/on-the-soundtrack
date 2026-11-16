@@ -40,6 +40,12 @@ In K'Town a timetable just appeared on a lamppost on Main Street. One train. No 
 
 Aus dem Nachtflieger nach Houston wurde ein Nachtzug nach Georgia. Und in K'Town hängt plötzlich ein Fahrplan am Laternenpfahl. Wer nimmt den letzten Zug?
 
-## Listen · Anhören
+## Episode · Sendung
 
-**Midnight Train to Georgia** · Gladys Knight & the Pips
+| | |
+| :-- | :-- |
+| **Song** | Midnight Train to Georgia · Gladys Knight & the Pips |
+| **In short · Kurz** | It started as a plane. It ended as a train. |
+| **Format** | Carousel · 6 images · 9:16 · TikTok & Instagram |
+| **Host** | Emmy |
+| **Guests · Gäste** | Sir Henry |
