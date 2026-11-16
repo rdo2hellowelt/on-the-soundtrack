@@ -44,7 +44,11 @@ Aus dem Nachtflieger nach Houston wurde ein Nachtzug nach Georgia. Und in K'Town
 
 | | |
 | :-- | :-- |
-| **Song** | Midnight Train to Georgia · Gladys Knight & the Pips |
+| **Song** | Midnight Train to Georgia |
+| **Band** | Gladys Knight & the Pips |
+| **Album** | Imagination (Buddah) |
+| **Released · Erschienen** | Single August 1973 · Album 9. Oktober 1973 |
+| **Duration · Dauer** | 4:38 |
 | **In short · Kurz** | It started as a plane. It ended as a train. |
 | **Format** | Carousel · 6 images · 9:16 · TikTok & Instagram |
 | **Host** | Emmy |
