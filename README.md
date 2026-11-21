@@ -21,11 +21,8 @@
 
 </div>
 
-> ## 🔴 On air · Zuletzt gesendet
-> ### [Midnight Train to Georgia](episodes/2026-11/2026-11-16_01_midnight-train-to-georgia.md) · Gladys Knight & the Pips
-> **It started as a plane. It ended as a train.**
->
-> *Episode 1 · Monday 16 November 2026 · 06:45*
+> ## 🔴 On air
+> *Coming soon · Bald.*
 
 ---
 
@@ -33,7 +30,6 @@
 
 | # | Date | Song | Artist |
 | --: | :-- | :-- | :-- |
-| 1 | Monday 16 November 2026 | **[Midnight Train to Georgia](episodes/2026-11/2026-11-16_01_midnight-train-to-georgia.md)** | Gladys Knight & the Pips |
 
 ## 🗂️ What's in here · Was hier liegt
 
